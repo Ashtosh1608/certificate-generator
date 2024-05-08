@@ -1,0 +1,28 @@
+/* *{
+    background-color: aqua;
+} */
+.image-tdc{
+    height: 500px;
+    /* position: absolute; */
+    /* position: relative; */
+}
+.name{
+    position: absolute;
+    background-color: aquamarine;
+    top: 23vh;
+    left: 46vw;
+}
+.course-name{
+    position: absolute;
+    background-color: rgb(26, 161, 48);
+    top: 27vh;
+    left: 39vw;
+    
+}
+.date{
+    position: absolute;
+    background-color: rgb(224, 132, 39);
+    top: 32vh;
+    left: 44vw;
+
+}
